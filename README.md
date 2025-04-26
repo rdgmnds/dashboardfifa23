@@ -3,8 +3,9 @@
 ## Projeto realizado como exercício de tratamento e análise de dados
 
 ### Tecnologias utilizadas
-1. Python como linguagem;
-2. Streamlit para interface gráfica e apresentação de dados.
+1. Python
+2. Pandas
+3. Streamlit
 
 ### Objetivos do projeto
 1. Tratar as bases de dados;
