@@ -12,8 +12,5 @@
 2. Criar uma página web com Streamlit;
 3. Apresentar os dados tratados.
 
-### Tempo de conclusão
-Cerca de 2 horas
-
 ### Desenvolvedores
 1. Rodrigo Mendes Vasconcelos
